@@ -1,0 +1,7 @@
+D:\C#\BasicStatsCommandLine App\bin\Debug\BasicStatsCommandLine App.exe.config
+D:\C#\BasicStatsCommandLine App\bin\Debug\BasicStatsCommandLine App.exe
+D:\C#\BasicStatsCommandLine App\bin\Debug\BasicStatsCommandLine App.pdb
+D:\C#\BasicStatsCommandLine App\obj\Debug\BasicStatsCommandLine App.csproj.AssemblyReference.cache
+D:\C#\BasicStatsCommandLine App\obj\Debug\BasicStatsCommandLine App.csproj.CoreCompileInputs.cache
+D:\C#\BasicStatsCommandLine App\obj\Debug\BasicStatsCommandLine App.exe
+D:\C#\BasicStatsCommandLine App\obj\Debug\BasicStatsCommandLine App.pdb
